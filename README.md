@@ -32,6 +32,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Статистика](https://github-readme-stats.vercel.app/api?username=tamper000&show_icons=true&theme=tokyonight)
-
 ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=tamper000&layout=compact&theme=tokyonight)
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=tamper000&show_icons=true&theme=tokyonight)
