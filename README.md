@@ -28,6 +28,10 @@
 > _Ваш личный помощник, который поможет в любое время. Готов работать за спасибо🥰_
 ![freybot](https://github-readme-stats.vercel.app/api/pin?username=tamper000\&repo=Freybot&theme=tokyonight)
 
+### [Tor-Scanner](https://github.com/tamper000/tor-scanner) - Легкий запуск tor с мостами
+> _Простой и быстрый инструмент для поиска рабочих мостов для Tor_
+![tor-scanner](https://github-readme-stats.vercel.app/api/pin?username=tamper000\&repo=tor-scanner&theme=tokyonight)
+
 
 ---
 
